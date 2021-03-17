@@ -31,9 +31,7 @@
 
 
 <!-- <img align="left" alt="artursantiago's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samfreitasxs&show_icons=true&hide_border=true&hide=contribs&theme=dracula" /> -->
-<p align="center">
-  <img alt="samuelfreitasxs's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api?username=samfreitasxs&show_icons=true&hide_border=true&hide=contribs&theme=dracula" />
-</p>
+
 
 [instagram]: https://www.instagram.com/samfrei_/
 [linkedin]: https://www.linkedin.com/in/samuelfreitass/
