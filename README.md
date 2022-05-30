@@ -5,7 +5,7 @@
 <p align="left"> 
   <ul>
     <li>🎓 &nbsp; Studying Analysis and Development of Systems.</li>
-    <li>💻 &nbsp; Software Automation Analyst at PayFace.</li>
+    <li>💻 &nbsp; Software Automation Analyst at Neon- Pagamentos.</li>
     <li>📘 &nbsp; Learning more about CSS, HTML, Ruby, Python, Appium, Java, Javascript And Typescript.</li>
     <li>📍 &nbsp;  Living in Maringá-PR (Brazil </li>
   </ul>
