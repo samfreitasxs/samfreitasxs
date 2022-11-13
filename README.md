@@ -12,18 +12,15 @@
   <ul>
     <li>🎓 &nbsp; Studying Analysis and Development of Systems.</li>
     <li>💻 &nbsp; Software Automation Analyst at Neon- Pagamentos.</li>
-    <li>📘 &nbsp; Learning more about CSS, HTML, Ruby, Python, Appium, Java, Javascript And Typescript.</li>
+    <li>📘 &nbsp; Learning more about Mobile Development.</li>
     <li>📍 &nbsp;  Living in Maringá-PR (Brazil </li>
   </ul>
 </p>
 
 <p align="left">
-   👨‍💻Skills: <strong> Cypress, Selenium, Python, RobotFramework and Learning Next.JS </strong>
+   👨‍💻Skills: <strong> JavaScript,Ruby, Cypress, Selenium, Python,Cucumber, SQL, HTTParty, API Rest, RobotFramework and Learning Next.JS </strong>
 </p>
 
-<p align="left">
-  💼 Tools: <strong>Visual Studio Code, Figma(Basics), Eclipse, Appium, Cucumber, Postman</strong>
-</p>
 
 #### Connect with me:
 
