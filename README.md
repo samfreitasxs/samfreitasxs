@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-   👨‍💻Skills: <strong> JavaScript,Ruby, Cypress, Selenium, Python,Cucumber, SQL, HTTParty, API Rest, RobotFramework and Learning Next.JS </strong>
+   👨‍💻Skills: <strong> JavaScript, Ruby, Cypress, Selenium, Python, Cucumber, SQL, HTTParty, API Rest, and Learning Next.JS </strong>
 </p>
 
 
