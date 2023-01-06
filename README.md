@@ -34,9 +34,3 @@
 [instagram]: https://www.instagram.com/samfrei_/
 [linkedin]: https://www.linkedin.com/in/samuelfreitass/
 [email]: mailto:samuel.sfdf@gmail.com
-
-<div align="center">
-
-  ![Snake animation](https:///github.com/samfreitasxs/samfreitasxs/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
