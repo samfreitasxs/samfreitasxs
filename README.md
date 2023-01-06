@@ -24,15 +24,12 @@
 
 #### Connect with me:
 
-<!-- [<img align="left" alt="samuelfreitas | Website" src="https://img.shields.io/badge/Website-samuelfreitas-blue?style=flat-square&logo=google-chrome" />][website] -->
 [<img align="center" alt="samuelfreitas | Instagram" src="https://img.shields.io/badge/Instagram-samfrei__-blue?style=flat-square&logo=instagram" />][instagram]
 [<img align="center" alt="samuelfreitas | LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20samuelfreitas%20-blue?style=flat-square&logo=linkedin" />][linkedin]
 [<img align="center" alt="samuelfreitas | Email" src="https://img.shields.io/badge/Email-samuel.sfdf@gmail.com-blue?style=flat-square&logo=gmail" />][email]
 
 <br />
 <br />
-
-
 
 [instagram]: https://www.instagram.com/samfrei_/
 [linkedin]: https://www.linkedin.com/in/samuelfreitass/
