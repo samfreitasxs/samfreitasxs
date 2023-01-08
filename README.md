@@ -36,3 +36,5 @@
 [email]: mailto:samuel.sfdf@gmail.com
 
 ![Snake animation](https://github.com/samfreitasxs/samfreitasxs/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
