@@ -35,4 +35,4 @@
 [linkedin]: https://www.linkedin.com/in/samuelfreitass/
 [email]: mailto:samuel.sfdf@gmail.com
 
-![Snake animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/samfreitasxs/samfreitasxs/blob/output/github-contribution-grid-snake.svg)
