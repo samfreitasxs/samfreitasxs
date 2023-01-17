@@ -22,6 +22,12 @@
 </p>
 
 
+### 🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=amndalsr&theme=dracula&no-frame=true&no-bg=false&margin-w=4">
+</div>
+
+
 #### Connect with me:
 
 [<img align="center" alt="samuelfreitas | Instagram" src="https://img.shields.io/badge/Instagram-samfrei__-blue?style=flat-square&logo=instagram" />][instagram]
