@@ -11,7 +11,7 @@
 
 <p align="left"> 
   <ul>
-    <li>🎓 &nbsp; Studying Analysis and Development of Systems.</li>
+    <li>🎓 &nbsp; Graduated in Systems Analysis and Development.</li>
     <li>💻 &nbsp; Software Automation Analyst at Neon- Pagamentos.</li>
     <li>📘 &nbsp; Learning more about Mobile Development.</li>
     <li>📍 &nbsp;  Living in Maringá-PR (Brazil </li>
