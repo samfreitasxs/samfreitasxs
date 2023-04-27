@@ -1,7 +1,7 @@
 
 ## Hi there 👋 I'm Samuel
 
-  <div align="center">
+  <div 
   <a href="https://github.com/samfreitasxs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samfreitasxs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samfreitasxs&layout=compact&langs_count=7&theme=dracula"/>
