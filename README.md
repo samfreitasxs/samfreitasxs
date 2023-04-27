@@ -14,7 +14,7 @@
     <li>🎓 &nbsp; Graduated in Systems Analysis and Development.</li>
     <li>💻 &nbsp; Software Automation Analyst.</li>
     <li>📘 &nbsp; Learning more about Mobile Development.</li>
-    <li>📍 &nbsp;  Living in Florianópolis-SC (Brazil </li>
+    <li>📍 &nbsp; Living in Florianópolis-SC (Brazil </li>
   </ul>
 </p>
 
