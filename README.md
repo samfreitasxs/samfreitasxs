@@ -15,7 +15,7 @@
     <li>💻 &nbsp; Software Automation Analyst.</li>
     <li>🏆 &nbsp; Certified Tester - ISTQB - CTFL</li>
     <li>📘 &nbsp; Learning more about Mobile Development.</li>
-    <li>📍 &nbsp; Living in Florianópolis-SC (Brazil </li>
+    <li>📍 &nbsp; Living in Maringá - PR (Brazil </li>
   </ul>
 </p>
 
