@@ -29,8 +29,6 @@
 </a> <a href="https://appium.io/" target=_blank" rel"noreferrer"> <img alt="appium" height="30" width="30" src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text-thumbnail.png">
 </a> <a href="https://jestjs.io/pt-BR/" target=_blank" rel"noreferrer"> <img alt="jest" height="30" width="30" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png"> </a> <a href="https://www.postman.com/" target=_blank" rel"noreferrer"> <img alt="postman" height="30" width="30" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
 </a> <a href="https://insomnia.rest/download" target=_blank" rel"noreferrer"> <img alt="insomnia" height="30" width="30" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
-</a> <a href="https://jasmine.github.io/" target=_blank" rel"noreferrer"> <img alt="jasmine" height="30" width="30" src="https://seeklogo.com/images/J/jasmine-logo-1A0FA4D537-seeklogo.com.png">
-</a> <a href="https://www.artillery.io/" target=_blank" rel"noreferrer"> <img alt="artillery" height="30" width="30" src="https://pbs.twimg.com/profile_images/1253951574444924933/7mx_QMfY_400x400.jpg">
 </a> <a href="https://www.cypress.io/" target=_blank" rel"noreferrer"> <img alt="cypress" height="30" width="30" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="30" height="30"/> </a>
 
