@@ -37,7 +37,6 @@
 
 #### Connect with me:
 
-[<img align="center" alt="samuelfreitas | Instagram" src="https://img.shields.io/badge/Instagram-samfrei__-blue?style=flat-square&logo=instagram" />][instagram]
 [<img align="center" alt="samuelfreitas | LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20samuelfreitas%20-blue?style=flat-square&logo=linkedin" />][linkedin]
 [<img align="center" alt="samuelfreitas | Email" src="https://img.shields.io/badge/Email-samuel.sfdf@gmail.com-blue?style=flat-square&logo=gmail" />][email]
 
