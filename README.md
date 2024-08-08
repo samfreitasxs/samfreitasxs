@@ -30,7 +30,6 @@
 </a> <a href="https://jestjs.io/pt-BR/" target=_blank" rel"noreferrer"> <img alt="jest" height="30" width="30" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png"> </a> <a href="https://www.postman.com/" target=_blank" rel"noreferrer"> <img alt="postman" height="30" width="30" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
 </a> <a href="https://insomnia.rest/download" target=_blank" rel"noreferrer"> <img alt="insomnia" height="30" width="30" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
 </a> <a href="https://www.cypress.io/" target=_blank" rel"noreferrer"> <img alt="cypress" height="30" width="30" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
-<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="30" height="30"/> </a>
 
 </div
 
