@@ -27,8 +27,9 @@
 <h3 align="left"> 💻 Tools:</h3>
 
   
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+                    
 </a> <a href="https://playwright.dev/" target=_blank" rel"noreferrer"> <img alt="playwright" height="30" width="30" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png">
   
 </a> <a href="https://appium.io/" target=_blank" rel"noreferrer"> <img alt="appium" height="30" width="30" src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text-thumbnail.png">
