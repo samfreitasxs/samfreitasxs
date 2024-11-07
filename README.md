@@ -28,7 +28,7 @@
 
   
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
                     
 </a> <a href="https://playwright.dev/" target=_blank" rel"noreferrer"> <img alt="playwright" height="30" width="30" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png">
   
