@@ -16,7 +16,7 @@
     <li>📱 &nbsp; Mobile software developer.</li>
     <li>🏆 &nbsp; Certified Tester - ISTQB / CTFL</li>
     <li>📘 &nbsp; Swift Student and Developer.</li>
-    <li>📍 &nbsp; Living in Maringá - PR (Brazil </li>
+    <li>📍 &nbsp; Living in Maringá - PR Brazil </li>
   </ul>
 </p>
 
