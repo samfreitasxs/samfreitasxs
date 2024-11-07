@@ -45,7 +45,7 @@
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/samfrei_/
+[instagram]: https://www.instagram.com/samucathecoder/
 [linkedin]: https://www.linkedin.com/in/samuelfreitass/
 [email]: mailto:samuel.sfdf@gmail.com
 
