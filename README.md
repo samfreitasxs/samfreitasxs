@@ -24,17 +24,13 @@
 
 
 <div>
+  
 <h3 align="left"> 💻 Tools:</h3>
 
-  
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-                    
-</a> <a href="https://playwright.dev/" target=_blank" rel"noreferrer"> <img alt="playwright" height="30" width="30" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png">
-  
-</a> <a href="https://appium.io/" target=_blank" rel"noreferrer"> <img alt="appium" height="30" width="30" src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text-thumbnail.png">
-  
-</a> <a href="https://www.cypress.io/" target=_blank" rel"noreferrer"> <img alt="cypress" height="30" width="30" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" width="40" height="40" />
+          
+
 </div
 
 
