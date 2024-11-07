@@ -12,9 +12,10 @@
 <p align="left"> 
   <ul>
     <li>🎓 &nbsp; Graduated in Systems Analysis and Development.</li>
-    <li>💻 &nbsp; Software Automation Analyst.</li>
+    <li>🎓 &nbsp; Postgraduate in Software Engineering.</li>
+    <li>📱 &nbsp; Mobile software developer.</li>
     <li>🏆 &nbsp; Certified Tester - ISTQB / CTFL</li>
-    <li>📘 &nbsp; Learning more about Mobile Development.</li>
+    <li>📘 &nbsp; Swift Student and Developer.</li>
     <li>📍 &nbsp; Living in Maringá - PR (Brazil </li>
   </ul>
 </p>
@@ -23,12 +24,9 @@
 
 
 <div>
-<h3 align="left"> 💻Testing Tools:</h3>
+<h3 align="left"> 💻 Tools:</h3>
 </a> <a href="https://playwright.dev/" target=_blank" rel"noreferrer"> <img alt="playwright" height="30" width="30" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png">
-</a> <a href="https://www.selenium.dev/" target=_blank" rel"noreferrer"> <img alt="selenium" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
 </a> <a href="https://appium.io/" target=_blank" rel"noreferrer"> <img alt="appium" height="30" width="30" src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text-thumbnail.png">
-</a> <a href="https://jestjs.io/pt-BR/" target=_blank" rel"noreferrer"> <img alt="jest" height="30" width="30" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png"> </a> <a href="https://www.postman.com/" target=_blank" rel"noreferrer"> <img alt="postman" height="30" width="30" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
-</a> <a href="https://insomnia.rest/download" target=_blank" rel"noreferrer"> <img alt="insomnia" height="30" width="30" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
 </a> <a href="https://www.cypress.io/" target=_blank" rel"noreferrer"> <img alt="cypress" height="30" width="30" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
 
 </div
