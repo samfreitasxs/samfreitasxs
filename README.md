@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Samuel
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samfreitasxs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samfreitasxs&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samfreitasxs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  &nbsp;&nbsp;&nbsp; <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samfreitasxs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<br>
+<br/>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Samuel Freitas">
 
@@ -20,7 +20,7 @@
   </ul>
 </p>
 
-<br>
+<br/>
 
 ### Languages and Tools 💻:
 
@@ -31,7 +31,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
@@ -49,5 +48,3 @@
 <a href="https://www.instagram.com/samucathecoder/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%20samucathecoder%20-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
 </a>
-
-<br />
