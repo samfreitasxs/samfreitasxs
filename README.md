@@ -1,12 +1,8 @@
 ## Hi there 👋 I'm Samuel
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samfreitasxs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> &nbsp;&nbsp; <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samfreitasxs&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samfreitasxs&show_icons=true&theme=dracula&include_all_commits=true"/> &nbsp;&nbsp; <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samfreitasxs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Samuel Freitas">
 
 <p align="left">
   <ul>
